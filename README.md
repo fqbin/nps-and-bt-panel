@@ -1,3 +1,4 @@
+[README](https://github.com/fqbin/nps-and-bt-panel/tree/main#readme)|[中文文档](https://github.com/fqbin/nps-and-bt-panel/blob/main/README_zh.md)
 ### This guide will help you to use nps on Debian with bt panel installed.
 
 ------
